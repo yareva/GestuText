@@ -1,4 +1,4 @@
-# GestuText ✋
+# GestuText
 
 **GestuText** is a hand gesture recognition system using **MediaPipe**, **OpenCV**, and **scikit-learn**. It detects hand gestures from a camera in real-time and classifies them using a trained Random Forest model.
 
